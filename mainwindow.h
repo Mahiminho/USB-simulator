@@ -19,6 +19,8 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    QString fileContent = "";
+    int currentLetter = 0;
 
 private slots:
     void on_pushButtonFindDrivers_clicked();
