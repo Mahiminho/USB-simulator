@@ -1,4 +1,4 @@
-<h1>USB interface simulator</h1>
+<h1 align="center">USB interface simulator</h1>
 <h2>What is it?</h2>
 <p>This is a simple program created using the C++ programming language and the Qt graphics library. 
 It simulates the operation of the USB interface, namely the codes of the message characters in the NRZI.</p>
